@@ -1,2 +1,2 @@
 # Todo
-me learning how to do a TODO list
+me learning how to do a TODO list using React
